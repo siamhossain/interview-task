@@ -9,17 +9,11 @@ p {
     position: relative;
     padding-top: 70px;
 }
-
 .gradient-bg {
     position: absolute;
     top: -350px;
     left: -244px;
 }
-
-.form-input {
-    
-}
-
 .form-input p{
     font-family: 'Overlock';
     font-style: normal;
@@ -41,14 +35,10 @@ p {
     line-height: 34px;
     color: rgba(4, 4, 21, 0.5);
     margin-bottom: 57px;
-
 }
-
-
 .form-btn {
     margin-top: 20.43px;
 }
-
 .form-btn button{
     width: 193.46px;
     height: 52px;
@@ -65,4 +55,3 @@ p {
     color: #FFFFFF;
     border: none;
 }
-
