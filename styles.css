@@ -1,18 +1,23 @@
 p {
     margin: 0;
 }
+
 .form {
     width: 888.38px;
     margin-right: auto;
     margin-right: auto;
     margin: 0 auto;
-    position: relative;
     padding-top: 70px;
 }
+
+.inputs {
+    position: relative;
+}
+
 .gradient-bg {
     position: absolute;
-    top: -350px;
-    left: -244px;
+    top: -320px;
+    left: -150px;
 }
 .form-input p{
     font-family: 'Overlock';
@@ -24,7 +29,7 @@ p {
     margin-bottom: 25px;
 }
 .form-input input{
-    padding: 12px;
+    padding-bottom: 12px;
     border: none;
     border-bottom: 0.8px solid rgba(4, 4, 21, 0.4);
     width: 100%;
@@ -35,6 +40,8 @@ p {
     line-height: 34px;
     color: rgba(4, 4, 21, 0.5);
     margin-bottom: 57px;
+    background: transparent !important;
+    outline: 0;
 }
 .form-btn {
     margin-top: 20.43px;
